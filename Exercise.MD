@@ -12,7 +12,7 @@ Here are the three main components that you need to create:
 2. Multiply the value in #1 to Pi (Math.PI)
 3. Get the sine of the result of #2
 4. Multiply the result of #3 to number of prizes provided
-5. Round down the result of #4 using Math.ceil()
+5. Round down the result of #4 using Math.floor()
 6. Convert the result of #5 into an Integer
 7. Use the result in #6 to get the prize to return by Prize Selector
 
