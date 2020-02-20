@@ -38,4 +38,4 @@ public class PrizeCalculatorMain {
 }
 ```
 
-[Back to Home](README.MD)
+[Back to Home](README.md)

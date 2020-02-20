@@ -24,4 +24,4 @@ Random random = new Random(123L); // constructor accepts any Long value
 ```
 Without a seed value, the Random object will be seeded by a value which is a multiple of the current nanotime based on epoch time
 
-[Back to Home](README.MD)
+[Back to Home](README.md)

@@ -54,4 +54,4 @@ Math.pow(double base, double exponent)
 double result = Math.pow(10.0, 3.0); // will result to 1000.0
 ```
 
-[Back to Home](README.MD)
+[Back to Home](README.md)
