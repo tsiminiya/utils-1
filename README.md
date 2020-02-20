@@ -5,3 +5,6 @@
 3. [UUID](UUID.MD)
 4. [Random](Random.MD)
 
+[Exercise](Exercise.MD)
+
+Random Prize Distribution Generator. [Click Here!](Exercise.MD)
